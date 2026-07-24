@@ -58,7 +58,7 @@ npx hardhat node
 ### Deploy Smart Contract
 
 ```bash
-npx hardhat ignition deploy ./ignition/modules/Crowdfunding.js --network localhost
+npx hardhat run scripts/deploy.js --network localhost
 ```
 
 ### Run React Frontend
