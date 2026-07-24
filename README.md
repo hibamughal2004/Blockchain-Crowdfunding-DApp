@@ -82,8 +82,8 @@ npm start
 
 ## Author
 
-**Hiba Mughal**
-**Adina Shamim**
+**Hiba Mughal,**
+**Adina Shamim,**
 **Abdul Moiz Siddiqui**
 
 Blockchain Technology Semester Project
